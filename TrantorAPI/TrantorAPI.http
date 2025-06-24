@@ -1,0 +1,6 @@
+@TrantorAPI_HostAddress = http://localhost:5174
+
+GET {{TrantorAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
